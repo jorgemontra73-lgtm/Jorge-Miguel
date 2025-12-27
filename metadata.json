@@ -1,0 +1,9 @@
+{
+  "name": "Serviços Locais+",
+  "description": "Uma plataforma completa para conectar clientes a prestadores de serviços em Angola, com IA integrada para recomendações, estimativas de preços e suporte por voz.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
